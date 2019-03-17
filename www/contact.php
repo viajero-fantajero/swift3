@@ -79,11 +79,11 @@ if(isset($_POST['email'])) {
  
  
  
-<!-- include your own success html here -->
+<!-- include your own success html here or not-->
  
  
  
-Thank you for contacting me. I will be in touch with you very soon.
+Thank you for contacting me. Will be in touch with you very soon.
  
  
  
